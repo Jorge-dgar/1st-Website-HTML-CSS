@@ -1,0 +1,111 @@
+.titulo{
+    color: black;
+    text-align: right;
+    margin-right: 15%;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.cuerpo{
+    background-color: lightgray;
+}
+
+.h2_big{
+    background-color: gray;
+    color: white;
+    padding-left: 1%;
+    border-top-left-radius: 10px; 
+    border-top-right-radius: 10px;
+    ;
+}
+
+.big_box{
+    border-radius: 14px;
+    background-color: whitesmoke;
+    margin-left: 200px;
+    margin-right: 200px
+}
+
+p{
+    
+    color: black;
+    padding-left: 1%;
+    text-indent: 20px;
+    padding-bottom: 1%;
+    ;
+}
+
+.texto-especial{
+    color:red;
+    font-style: italic;
+}
+
+.curva_de_hubbert{
+    height: auto;
+    margin-left: 700px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+
+hr{
+    border-color:black;
+    border-top: 4px solid rgba(255, 200, 0, 0.777);
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+.small_box{
+    background-color: white;
+    margin-left: 10px;
+    margin-right: 10px
+
+
+}
+
+.h2_small{
+
+    background-color: lightgray;
+    color: white;
+    padding-left: 1%;
+    ;
+}
+
+.characters{
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.image_scare{
+    width: 40px;
+    height: 40px;
+    z-index: 1;
+    position:static;
+    overflow: hidden;
+}
+
+.final_author{
+    background-color: rgb(255, 187, 0);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+
+
+.visible_box{
+            position: fixed;
+            border: 1px solid #ccc;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            top: 2;
+            left: 0;
+            background-color: white;
+            border: 1px solid black;
+            width: 5%;
+}
+
+.hugo{
+    font-family: 'Impact', sans-serif;
+}
+
